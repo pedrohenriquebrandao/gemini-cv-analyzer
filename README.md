@@ -2,6 +2,9 @@
 
 Essa aplicação foi implementada com a API do Google Gemini para auxiliar recrutadores a analisarem currículos de candidatos a vagas de emprego, mapeando as informações relevantes e traçando um perfil do candidato. O objetivo dessa ferramenta é automatizar os processos seletivos onde o volume de currículos enviados é elevado.
 
+## 🚀 Imersão AI Alura + Google
+Este projeto foi desenvolvido durante a [Imersão AI Alura](https://www.alura.com.br/imersao-ia-google-gemini) em parceria com o Google. A iniciativa uniu especialistas da área de Inteligência Artificial para oferecer um ambiente de compartilhamento de conhecimento e experiências entre profissionais de diversas áreas, destacando a relevância deste tema nos dias atuais e a maneira que a IA está cada vez mais imersa em vários aspectos da vida cotidiana.
+
 ## 💻 Como utilizar:
 
 - ### Clone o repositório do GitHub
